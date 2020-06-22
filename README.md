@@ -1,2 +1,3 @@
 # QR Code
-its my scrips to make you generate barcode with just python
+This scrips to create a barcode with just python
+and generate barcode as images (png, jpeg, etc)
