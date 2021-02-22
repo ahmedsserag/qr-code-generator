@@ -1,3 +1,3 @@
 # QR Code Generator 
-This scrips to create a barcode with just python
-and generate barcode as images (png, jpeg, etc)
+This is a script to create a barcode with python
+and generate a barcode as images (png, jpeg, etc)
